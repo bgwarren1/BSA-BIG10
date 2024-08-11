@@ -1,0 +1,128 @@
+Rk,Date,School,,Opponent,,Punts,Yds,Avg
+1,2023-09-02,Washington,,Boise State,W,5,209,41.8
+2,2023-09-09,Washington,,Tulsa,W,0,0,
+3,2023-09-16,Washington,@,Michigan State,W,2,63,31.5
+4,2023-09-23,Washington,,California,W,2,107,53.5
+5,2023-09-30,Washington,@,Arizona,W,2,85,42.5
+6,2023-10-14,Washington,,Oregon,W,3,129,43
+7,2023-10-21,Washington,,Arizona State,W,3,110,36.7
+8,2023-10-28,Washington,@,Stanford,W,5,208,41.6
+9,2023-11-04,Washington,@,Southern California,W,0,0,
+10,2023-11-11,Washington,,Utah,W,4,162,40.5
+11,2023-11-18,Washington,@,Oregon State,W,4,176,44
+12,2023-11-25,Washington,,Washington State,W,6,228,38
+13,2023-12-01,Washington,N,Oregon,W,1,54,54
+14,2024-01-01,Washington,N,Texas*,W,3,108,36
+15,2024-01-08,Washington,N,Michigan*,L,5,239,47.8
+1,2022-09-03,Washington,,Kent State,W,2,68,34
+2,2022-09-10,Washington,,Portland State,W,1,51,51
+3,2022-09-17,Washington,,Michigan State,W,3,113,37.7
+4,2022-09-24,Washington,,Stanford,W,3,129,43
+5,2022-09-30,Washington,@,UCLA,L,1,50,50
+6,2022-10-08,Washington,@,Arizona State,L,1,58,58
+7,2022-10-15,Washington,,Arizona,W,1,50,50
+8,2022-10-22,Washington,@,California,W,3,113,37.7
+9,2022-11-04,Washington,,Oregon State,W,3,110,36.7
+10,2022-11-12,Washington,@,Oregon,W,1,37,37
+11,2022-11-19,Washington,,Colorado,W,0,0,
+12,2022-11-26,Washington,@,Washington State,W,1,43,43
+13,2022-12-29,Washington,N,Texas*,W,3,117,39
+1,2021-09-04,Washington,,Montana,L,5,225,45
+2,2021-09-11,Washington,@,Michigan,L,5,249,49.8
+3,2021-09-18,Washington,,Arkansas State,W,3,137,45.7
+4,2021-09-25,Washington,,California,W,4,222,55.5
+5,2021-10-02,Washington,@,Oregon State,L,5,203,40.6
+6,2021-10-16,Washington,,UCLA,L,3,155,51.7
+7,2021-10-22,Washington,@,Arizona,W,7,347,49.6
+8,2021-10-30,Washington,@,Stanford,W,3,129,43
+9,2021-11-06,Washington,,Oregon,L,7,316,45.1
+10,2021-11-13,Washington,,Arizona State,L,5,260,52
+11,2021-11-20,Washington,@,Colorado,L,2,111,55.5
+12,2021-11-26,Washington,,Washington State,L,4,218,54.5
+1,2020-11-14,Washington,,Oregon State,W,2,85,42.5
+2,2020-11-21,Washington,,Arizona,W,3,126,42
+3,2020-11-28,Washington,,Utah,W,3,133,44.3
+4,2020-12-05,Washington,,Stanford,L,2,80,40
+1,2019-08-31,Washington,,Eastern Washington,W,2,100,50
+2,2019-09-07,Washington,,California,L,1,44,44
+3,2019-09-14,Washington,,Hawaii,W,3,131,43.7
+4,2019-09-21,Washington,@,Brigham Young,W,1,37,37
+5,2019-09-28,Washington,,Southern California,W,6,266,44.3
+6,2019-10-05,Washington,@,Stanford,L,4,176,44
+7,2019-10-12,Washington,@,Arizona,W,3,145,48.3
+8,2019-10-19,Washington,,Oregon,L,4,176,44
+9,2019-11-02,Washington,,Utah,L,4,192,48
+10,2019-11-08,Washington,@,Oregon State,W,4,165,41.3
+11,2019-11-23,Washington,@,Colorado,L,7,336,48
+12,2019-11-29,Washington,,Washington State,W,3,127,42.3
+13,2019-12-21,Washington,N,Boise State*,W,3,142,47.3
+1,2018-09-01,Washington,N,Auburn,L,1,43,43
+2,2018-09-08,Washington,,North Dakota,W,4,188,47
+3,2018-09-15,Washington,@,Utah,W,7,269,38.4
+2,2018-09-22,Washington,,Arizona State,W,3,148,49.3
+3,2018-09-29,Washington,,Brigham Young,W,1,40,40
+4,2018-10-06,Washington,@,UCLA,W,2,95,47.5
+5,2018-10-13,Washington,@,Oregon,L,2,67,33.5
+6,2018-10-20,Washington,,Colorado,W,3,128,42.7
+7,2018-10-27,Washington,@,California,L,5,229,45.8
+8,2018-11-03,Washington,,Stanford,W,5,174,34.8
+9,2018-11-17,Washington,,Oregon State,W,4,173,43.25
+10,2018-11-23,Washington,@,Washington State,W,1,48,48
+11,2018-11-30,Washington,N,Utah,W,3,109,36.3
+12,2019-01-01,Washington,N,Ohio State*,L,5,200,40
+1,2017-09-01,Washington,@,Rutgers,W,5,177,35.4
+2,2017-09-09,Washington,,Montana,W,2,67,33.5
+3,2017-09-16,Washington,,Fresno State,W,3,120,40
+4,2017-09-23,Washington,@,Colorado,W,1,51,51
+5,2017-09-30,Washington,@,Oregon State,W,3,141,47
+6,2017-10-07,Washington,,California,W,4,170,42.5
+7,2017-10-14,Washington,@,Arizona State,L,6,276,46
+8,2017-10-28,Washington,,UCLA,W,2,69,34.5
+9,2017-11-04,Washington,,Oregon,W,2,77,38.5
+10,2017-11-10,Washington,@,Stanford,L,3,116,38.7
+11,2017-11-18,Washington,,Utah,W,2,87,43.5
+12,2017-11-25,Washington,,Washington State,W,4,182,45.5
+13,2017-12-30,Washington,N,Penn State*,L,5,245,49
+1,2016-09-03,Washington,,Rutgers,W,4,137,34.3
+2,2016-09-10,Washington,,Idaho,W,2,99,49.5
+3,2016-09-17,Washington,,Portland State,W,3,112,37.3
+4,2016-09-24,Washington,@,Arizona,W,3,121,40.3
+5,2016-09-30,Washington,,Stanford,W,2,81,40.5
+6,2016-10-08,Washington,@,Oregon,W,5,225,45
+7,2016-10-22,Washington,,Oregon State,W,3,120,40
+8,2016-10-29,Washington,@,Utah,W,3,131,43.7
+9,2016-11-05,Washington,@,California,W,4,130,32.5
+10,2016-11-12,Washington,,Southern California,L,4,138,34.5
+11,2016-11-19,Washington,,Arizona State,W,2,77,38.5
+12,2016-11-25,Washington,@,Washington State,W,3,130,43.3
+13,2016-12-02,Washington,N,Colorado,W,5,203,40.6
+14,2016-12-31,Washington,N,Alabama*,L,8,373,46.6
+1,2015-09-04,Washington,@,Boise State,L,8,325,40.6
+2,2015-09-12,Washington,,Sacramento State,W,2,72,36
+3,2015-09-19,Washington,,Utah State,W,2,105,52.5
+4,2015-09-26,Washington,,California,L,3,114,38
+5,2015-10-08,Washington,@,Southern California,W,5,235,47
+6,2015-10-17,Washington,,Oregon,L,5,220,44
+7,2015-10-24,Washington,@,Stanford,L,7,314,44.9
+8,2015-10-31,Washington,,Arizona,W,4,161,40.3
+9,2015-11-07,Washington,,Utah,L,4,141,35.25
+10,2015-11-14,Washington,@,Arizona State,L,5,227,45.4
+11,2015-11-21,Washington,@,Oregon State,W,1,53,53
+12,2015-11-27,Washington,,Washington State,W,3,109,36.3
+13,2015-12-26,Washington,N,Southern Mississippi*,W,2,112,56
+1,2014-08-30,Washington,@,Hawaii,W,8,340,42.5
+2,2014-09-06,Washington,,Eastern Washington,W,2,72,36
+3,2014-09-13,Washington,,Illinois,W,3,97,32.3
+4,2014-09-20,Washington,,Georgia State,W,5,189,37.8
+5,2014-09-27,Washington,,Stanford,L,7,362,51.7
+6,2014-10-11,Washington,@,California,W,5,199,39.8
+7,2014-10-18,Washington,@,Oregon,L,3,132,44
+8,2014-10-25,Washington,,Arizona State,L,7,211,30.1
+9,2014-11-01,Washington,@,Colorado,W,4,189,47.3
+10,2014-11-08,Washington,,UCLA,L,4,190,47.5
+11,2014-11-15,Washington,@,Arizona,L,5,225,45
+12,2014-11-22,Washington,,Oregon State,W,3,133,44.3
+13,2014-11-29,Washington,@,Washington State,W,4,172,43
+14,2015-01-02,Washington,N,Oklahoma State*,L,3,142,47.3
+3,2013-09-21,Washington,,Idaho State,W,1,36,36
+5,2013-10-05,Washington,@,Stanford,L,7,276,39.4
