@@ -1,0 +1,136 @@
+Rk,Date,School,,Opponent,,Punts,Yds,Avg
+1,2023-08-26,Southern California,,San Jose State,W,2,83,41.5
+2,2023-09-02,Southern California,,Nevada,W,2,85,42.5
+3,2023-09-09,Southern California,,Stanford,W,5,211,42.2
+4,2023-09-23,Southern California,@,Arizona State,W,2,90,45
+5,2023-09-30,Southern California,@,Colorado,W,4,190,47.5
+6,2023-10-07,Southern California,,Arizona,W,5,232,46.4
+7,2023-10-14,Southern California,@,Notre Dame,L,3,150,50
+8,2023-10-21,Southern California,,Utah,L,4,181,45.3
+9,2023-10-28,Southern California,@,California,W,7,294,42
+10,2023-11-04,Southern California,,Washington,L,2,67,33.5
+11,2023-11-11,Southern California,@,Oregon,L,4,162,40.5
+12,2023-11-18,Southern California,,UCLA,L,2,88,44
+13,2023-12-27,Southern California,N,Louisville*,W,2,73,36.5
+1,2022-09-03,Southern California,,Rice,W,1,26,26
+2,2022-09-10,Southern California,@,Stanford,W,2,64,32
+3,2022-09-17,Southern California,,Fresno State,W,2,80,40
+4,2022-09-24,Southern California,@,Oregon State,W,4,164,41
+5,2022-10-01,Southern California,,Arizona State,W,1,37,37
+6,2022-10-08,Southern California,,Washington State,W,5,225,45
+7,2022-10-15,Southern California,@,Utah,L,2,101,50.5
+8,2022-10-29,Southern California,@,Arizona,W,1,27,27
+9,2022-11-05,Southern California,,California,W,5,198,39.6
+10,2022-11-11,Southern California,,Colorado,W,2,86,43
+11,2022-11-19,Southern California,@,UCLA,W,1,34,34
+12,2022-12-02,Southern California,N,Utah,L,4,166,41.5
+1,2021-09-04,Southern California,,San Jose State,W,5,228,45.6
+2,2021-09-11,Southern California,,Stanford,L,4,194,48.5
+3,2021-09-18,Southern California,@,Washington State,W,3,137,45.7
+4,2021-09-25,Southern California,,Oregon State,L,3,135,45
+5,2021-10-02,Southern California,@,Colorado,W,3,129,43
+6,2021-10-09,Southern California,,Utah,L,5,231,46.2
+7,2021-10-23,Southern California,@,Notre Dame,L,2,99,49.5
+8,2021-10-30,Southern California,,Arizona,W,3,118,39.3
+9,2021-11-06,Southern California,@,Arizona State,L,5,219,43.8
+10,2021-11-20,Southern California,,UCLA,L,5,219,43.8
+11,2021-11-27,Southern California,,Brigham Young,L,4,196,49
+12,2021-12-04,Southern California,@,California,L,2,73,36.5
+1,2020-11-07,Southern California,,Arizona State,W,3,138,46
+2,2020-11-14,Southern California,@,Arizona,W,3,143,47.7
+3,2020-11-21,Southern California,@,Utah,W,4,175,43.8
+4,2020-12-06,Southern California,,Washington State,W,2,80,40
+5,2020-12-12,Southern California,@,UCLA,W,3,153,51
+6,2020-12-18,Southern California,,Oregon,L,3,146,48.7
+1,2019-08-31,Southern California,,Fresno State,W,3,111,37
+2,2019-09-07,Southern California,,Stanford,W,2,84,42
+3,2019-09-14,Southern California,@,Brigham Young,L,4,154,38.5
+4,2019-09-20,Southern California,,Utah,W,4,169,42.3
+5,2019-09-28,Southern California,@,Washington,L,6,246,41
+6,2019-10-12,Southern California,@,Notre Dame,L,5,211,42.2
+7,2019-10-19,Southern California,,Arizona,W,6,266,44.3
+8,2019-10-25,Southern California,@,Colorado,W,4,184,46
+9,2019-11-02,Southern California,,Oregon,L,3,109,36.3
+10,2019-11-09,Southern California,@,Arizona State,W,5,181,36.2
+11,2019-11-16,Southern California,@,California,W,3,151,50.3
+12,2019-11-23,Southern California,,UCLA,W,3,122,40.7
+13,2019-12-27,Southern California,N,Iowa*,L,4,153,38.3
+1,2018-09-01,Southern California,,Nevada-Las Vegas,W,4,115,28.8
+2,2018-09-08,Southern California,@,Stanford,L,2,54,27
+3,2018-09-15,Southern California,@,Texas,L,3,107,35.7
+4,2018-09-21,Southern California,,Washington State,W,5,197,39.4
+5,2018-09-29,Southern California,@,Arizona,W,5,228,45.6
+6,2018-10-13,Southern California,,Colorado,W,7,297,42.4
+7,2018-10-20,Southern California,@,Utah,L,7,279,39.9
+8,2018-10-27,Southern California,,Arizona State,L,7,309,44.1
+9,2018-11-03,Southern California,@,Oregon State,W,3,100,33.3
+10,2018-11-10,Southern California,,California,L,6,241,40.2
+11,2018-11-17,Southern California,@,UCLA,L,3,126,42
+12,2018-11-24,Southern California,,Notre Dame,L,6,231,38.5
+1,2017-09-02,Southern California,,Western Michigan,W,4,204,51
+2,2017-09-09,Southern California,,Stanford,W,1,45,45
+3,2017-09-16,Southern California,,Texas,W,6,277,46.2
+4,2017-09-23,Southern California,@,California,W,3,127,42.3
+5,2017-09-29,Southern California,@,Washington State,L,6,259,43.2
+6,2017-10-07,Southern California,,Oregon State,W,2,78,39
+7,2017-10-14,Southern California,,Utah,W,4,170,42.5
+8,2017-10-21,Southern California,@,Notre Dame,L,6,258,43
+9,2017-10-28,Southern California,@,Arizona State,W,2,96,48
+10,2017-11-04,Southern California,,Arizona,W,4,171,42.8
+11,2017-11-11,Southern California,@,Colorado,W,3,134,44.7
+12,2017-11-18,Southern California,,UCLA,W,5,167,33.4
+13,2017-12-01,Southern California,N,Stanford,W,3,97,32.3
+14,2017-12-29,Southern California,N,Ohio State*,L,6,206,34.3
+1,2016-09-03,Southern California,N,Alabama,L,10,403,40.3
+2,2016-09-10,Southern California,,Utah State,W,2,83,41.5
+3,2016-09-17,Southern California,@,Stanford,L,5,184,36.8
+4,2016-09-23,Southern California,@,Utah,L,1,30,30
+5,2016-10-01,Southern California,,Arizona State,W,3,109,36.3
+6,2016-10-08,Southern California,,Colorado,W,3,118,39.3
+7,2016-10-15,Southern California,@,Arizona,W,4,145,36.3
+8,2016-10-27,Southern California,,California,W,2,75,37.5
+9,2016-11-05,Southern California,,Oregon,W,4,159,39.8
+10,2016-11-12,Southern California,@,Washington,W,4,127,31.8
+11,2016-11-19,Southern California,@,UCLA,W,2,76,38
+12,2016-11-26,Southern California,,Notre Dame,W,6,231,38.5
+13,2017-01-02,Southern California,N,Penn State*,W,4,177,44.3
+1,2015-09-05,Southern California,,Arkansas State,W,6,244,40.7
+2,2015-09-12,Southern California,,Idaho,W,3,132,44
+3,2015-09-19,Southern California,,Stanford,L,3,121,40.3
+4,2015-09-26,Southern California,@,Arizona State,W,5,235,47
+5,2015-10-08,Southern California,,Washington,L,6,262,43.7
+6,2015-10-17,Southern California,@,Notre Dame,L,3,110,36.7
+7,2015-10-24,Southern California,,Utah,W,3,117,39
+8,2015-10-31,Southern California,@,California,W,4,167,41.8
+9,2015-11-07,Southern California,,Arizona,W,5,215,43
+10,2015-11-13,Southern California,@,Colorado,W,5,190,38
+11,2015-11-21,Southern California,@,Oregon,L,6,234,39
+12,2015-11-28,Southern California,,UCLA,W,7,281,40.1
+13,2015-12-05,Southern California,N,Stanford,L,3,130,43.3
+14,2015-12-30,Southern California,N,Wisconsin*,L,6,229,38.2
+1,2014-09-06,Southern California,@,Stanford,W,4,191,47.8
+2,2014-09-13,Southern California,@,Boston College,L,10,375,37.5
+3,2014-09-27,Southern California,,Oregon State,W,6,243,40.5
+4,2014-10-04,Southern California,,Arizona State,L,2,119,59.5
+5,2014-10-11,Southern California,@,Arizona,W,6,233,38.8
+6,2014-10-18,Southern California,,Colorado,W,5,181,36.2
+7,2014-10-25,Southern California,@,Utah,L,5,251,50.2
+8,2014-11-01,Southern California,@,Washington State,W,5,206,41.2
+9,2014-11-13,Southern California,,California,W,3,110,36.7
+10,2014-11-22,Southern California,@,UCLA,L,6,259,43.2
+11,2014-11-29,Southern California,,Notre Dame,W,1,36,36
+12,2014-12-27,Southern California,N,Nebraska*,W,7,281,40.1
+1,2013-08-29,Southern California,@,Hawaii,W,6,260,43.3
+2,2013-09-07,Southern California,,Washington State,L,6,242,40.3
+3,2013-09-14,Southern California,,Boston College,W,4,176,44
+4,2013-09-21,Southern California,,Utah State,W,7,248,35.4
+5,2013-09-28,Southern California,@,Arizona State,L,5,214,42.8
+6,2013-10-10,Southern California,,Arizona,W,6,214,35.7
+7,2013-10-19,Southern California,@,Notre Dame,L,6,224,37.3
+8,2013-10-26,Southern California,,Utah,W,7,269,38.4
+9,2013-11-01,Southern California,@,Oregon State,W,6,217,36.2
+10,2013-11-09,Southern California,@,California,W,4,126,31.5
+11,2013-11-16,Southern California,,Stanford,W,6,212,35.3
+12,2013-11-23,Southern California,@,Colorado,W,6,181,30.2
+13,2013-11-30,Southern California,,UCLA,L,6,201,33.5
+14,2013-12-21,Southern California,N,Fresno State*,W,4,144,36
