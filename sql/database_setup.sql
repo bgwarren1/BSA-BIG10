@@ -19,16 +19,35 @@ CREATE TABLE Games (
 
 -- Create the Offensive_Stats table
 CREATE TABLE Offensive_Stats (
-    game_id INT REFERENCES Games(game_id),
+    game_id SERIAL PRIMARY KEY,
+    date DATE,
+    opponent VARCHAR(100),
+    location VARCHAR(50),
+    result VARCHAR(10),
     passing_cmp INT,
     passing_att INT,
+    completion_pct DECIMAL,  -- Assuming it's a percentage
     passing_yds INT,
     passing_td INT,
     rushing_att INT,
     rushing_yds INT,
+    rushing_avg DECIMAL,  -- Assuming it's a decimal
     rushing_td INT,
-    total_offense INT
+    total_plays INT,
+    total_yards INT,
+    avg_yds DECIMAL,  -- Assuming it's a decimal
+    pass_first_downs INT,
+    rush_first_downs INT,
+    first_down_pens INT,
+    total_first_downs INT,
+    total_penalties INT,
+    total_penalties_yds INT,
+    total_fum INT,
+    total_int INT,
+    total_to INT
 );
+
+
 
 -- Create the Defensive_Stats table
 CREATE TABLE Defensive_Stats (
@@ -78,8 +97,4 @@ CREATE TABLE Staging_Games (
     result VARCHAR(10)
 );
 
--- If you wish to load data directly using SQL:
-COPY Staging_Games (date, opponent, raw_location, result)
-FROM '/Users/blairwarren/Desktop/BSA Article/bsa-big10-predictive-analysis/data/ucla_game_logs.csv'
-DELIMITER ','
-CSV HEADER;
+
