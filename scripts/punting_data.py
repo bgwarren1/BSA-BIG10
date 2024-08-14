@@ -8,7 +8,7 @@ column_names = [
 ]
 
 
-csv_file_path = '/Users/blairwarren/Desktop/BSA Article/bsa-big10-predictive-analysis/data/OregonPuntingData.csv'  
+csv_file_path = ''  
 df = pd.read_csv(csv_file_path, names=column_names, header=0)
 
 # Ensure that date is interpreted as a string
@@ -19,17 +19,17 @@ print(df.head())
 
 
 conn = psycopg2.connect(
-    host="localhost",
-    port=4228,  
-    database="postgres",  
-    user="postgres",  
-    password="Blairp11"  
+    host="",
+    # port = ,  
+    database="",  
+    user="",  
+    password=""  
 )
 cursor = conn.cursor()
 
 # SQL query to insert data into Punting_Stats table
 sql_query = """
-    INSERT INTO Punting_Stats (
+    INSERT INTO Oregon_Punting_Stats (
         date, raw_location, opponent, result, punts, yds, avg
     ) VALUES (%s, %s, %s, %s, %s, %s, %s)
 """
