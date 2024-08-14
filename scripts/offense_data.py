@@ -13,7 +13,7 @@ column_names = [
 ]
 
 # Load the CSV file with updated headers
-csv_file_path = '/Users/blairwarren/Desktop/BSA Article/bsa-big10-predictive-analysis/data/ucla_offense_stats.csv'
+csv_file_path = ''
 df = pd.read_csv(csv_file_path, names=column_names, header=0)
 
 # Drop rows with any NaN values (like the header row if it gets included as data)
