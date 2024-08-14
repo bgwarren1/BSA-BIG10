@@ -13,7 +13,7 @@ column_names = [
 ]
 
 # Load the CSV file with updated headers
-csv_file_path = ''
+csv_file_path = '/Users/blairwarren/Desktop/BSA Article/bsa-big10-predictive-analysis/data/ucla_offense_stats.csv'
 df = pd.read_csv(csv_file_path, names=column_names, header=0)
 
 # Drop rows with any NaN values (like the header row if it gets included as data)
@@ -22,14 +22,14 @@ df.dropna(inplace=True)
 # Connect to PostgreSQL database
 conn = psycopg2.connect(
     host="",
-    port=4228,  
+    # port = ,  
     database="",  
     user="",  
     password=""  
 )
 cursor = conn.cursor()
 
-# Delete existing data in Offensive_Stats
+
 # cursor.execute("DELETE FROM Offensive_Stats")
 
 # Insert the new data
