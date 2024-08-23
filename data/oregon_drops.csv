@@ -1,0 +1,139 @@
+Rk,Date,raw_location,Opponent,Result,Drops
+1,2023-09-02,H,Portland State,W (81-7),0
+2,2023-09-09,@,Texas Tech,W (38-30),5
+3,2023-09-16,H,Hawaii,W (55-10),4
+4,2023-09-23,H,Colorado,W (42-6),1
+5,2023-09-30,@,Stanford,W (42-6),1
+6,2023-10-14,@,Washington,L (33-36),2
+7,2023-10-21,H,Washington State,W (38-24),2
+8,2023-10-28,@,Utah,W (35-6),2
+9,2023-11-04,H,California,W (63-19),3
+10,2023-11-11,H,Southern California,W (36-27),4
+11,2023-11-18,@,Arizona State,W (49-13),1
+12,2023-11-24,H,Oregon State,W (31-7),1
+13,2023-12-01,N,Washington,L (31-34),1
+14,2024-01-01,N,Liberty*,W (45-6),3
+1,2022-09-03,N,Georgia,L (3-49),2
+2,2022-09-10,H,Eastern Washington,W (70-14),3
+3,2022-09-17,H,Brigham Young,W (41-20),1
+4,2022-09-24,@,Washington State,W (44-41),1
+5,2022-10-01,H,Stanford,W (45-27),4
+6,2022-10-08,@,Arizona,W (49-22),1
+7,2022-10-22,H,UCLA,W (45-30),1
+8,2022-10-29,@,California,W (42-24),2
+9,2022-11-05,@,Colorado,W (49-10),0
+10,2022-11-12,H,Washington,L (34-37),1
+11,2022-11-19,H,Utah,W (20-17),0
+12,2022-11-26,@,Oregon State,L (34-38),1
+13,2022-12-28,N,North Carolina*,W (28-27),0
+1,2021-09-04,H,Fresno State,W (31-24),2
+2,2021-09-11,@,Ohio State,W (35-28),3
+3,2021-09-18,H,Stony Brook,W (48-7),2
+4,2021-09-25,H,Arizona,W (41-19),1
+5,2021-10-02,@,Stanford,L (24-31),2
+6,2021-10-15,H,California,W (24-17),0
+7,2021-10-23,@,UCLA,W (34-31),1
+8,2021-10-30,H,Colorado,W (52-29),1
+9,2021-11-06,@,Washington,W (26-16),1
+10,2021-11-13,H,Washington State,W (38-24),2
+11,2021-11-20,@,Utah,L (7-38),4
+12,2021-11-27,H,Oregon State,W (38-29),0
+13,2021-12-03,N,Utah,L (10-38),1
+14,2021-12-29,N,Oklahoma*,L (32-47),1
+1,2020-11-07,H,Stanford,W (35-14),2
+2,2020-11-14,@,Washington State,W (43-29),4
+3,2020-11-21,H,UCLA,W (38-35),1
+4,2020-11-27,@,Oregon State,L (38-41),1
+5,2020-12-05,@,California,L (17-21),2
+6,2020-12-18,@,Southern California,W (31-24),2
+7,2021-01-02,N,Iowa State*,L (17-34),4
+1,2019-08-31,N,Auburn,L (21-27),1
+2,2019-09-07,H,Nevada,W (77-6),1
+3,2019-09-14,H,Montana,W (35-3),3
+4,2019-09-21,@,Stanford,W (21-6),2
+5,2019-10-05,H,California,W (17-7),4
+6,2019-10-11,H,Colorado,W (45-3),5
+7,2019-10-19,@,Washington,W (35-31),0
+8,2019-10-26,H,Washington State,W (37-35),3
+9,2019-11-02,@,Southern California,W (56-24),1
+10,2019-11-16,H,Arizona,W (34-6),3
+11,2019-11-23,@,Arizona State,L (28-31),3
+12,2019-11-30,H,Oregon State,W (24-10),2
+13,2019-12-06,N,Utah,W (37-15),3
+14,2020-01-01,N,Wisconsin*,W (28-27),1
+1,2018-09-01,H,Bowling Green State,W (58-24),4
+2,2018-09-08,H,Portland State,W (62-14),2
+3,2018-09-15,H,San Jose State,W (35-22),3
+4,2018-09-22,H,Stanford,L (31-38),1
+5,2018-09-29,@,California,W (42-24),2
+6,2018-10-13,H,Washington,W (30-27),2
+7,2018-10-20,@,Washington State,L (20-34),3
+8,2018-10-27,@,Arizona,L (15-44),1
+9,2018-11-03,H,UCLA,W (42-21),2
+10,2018-11-10,@,Utah,L (25-32),4
+11,2018-11-17,H,Arizona State,W (31-29),3
+12,2018-11-23,@,Oregon State,W (55-15),1
+13,2018-12-31,N,Michigan State*,W (7-6),6
+1,2017-09-02,H,Southern Utah,W (77-21),0
+2,2017-09-09,H,Nebraska,W (42-35),2
+3,2017-09-16,@,Wyoming,W (49-13),2
+4,2017-09-23,@,Arizona State,L (35-37),4
+5,2017-09-30,H,California,W (45-24),1
+6,2017-10-07,H,Washington State,L (10-33),2
+7,2017-10-14,@,Stanford,L (7-49),0
+8,2017-10-21,@,UCLA,L (14-31),0
+9,2017-10-28,H,Utah,W (41-20),0
+10,2017-11-04,@,Washington,L (3-38),2
+11,2017-11-18,H,Arizona,W (48-28),3
+12,2017-11-25,H,Oregon State,W (69-10),3
+13,2017-12-16,H,Boise State*,L (28-38),1
+1,2016-09-03,H,California-Davis,W (53-28),2
+2,2016-09-10,H,Virginia,W (44-26),3
+3,2016-09-17,@,Nebraska,L (32-35),1
+4,2016-09-24,H,Colorado,L (38-41),1
+5,2016-10-01,@,Washington State,L (33-51),1
+6,2016-10-08,H,Washington,L (21-70),3
+7,2016-10-21,@,California,L (49-52),4
+8,2016-10-29,H,Arizona State,W (54-35),2
+9,2016-11-05,@,Southern California,L (20-45),2
+10,2016-11-12,H,Stanford,L (27-52),2
+11,2016-11-19,@,Utah,W (30-28),2
+12,2016-11-26,@,Oregon State,L (24-34),2
+1,2015-09-05,H,Eastern Washington,W (61-42),1
+2,2015-09-12,@,Michigan State,L (28-31),3
+3,2015-09-19,H,Georgia State,W (61-28),0
+4,2015-09-26,H,Utah,L (20-62),1
+5,2015-10-03,@,Colorado,W (41-24),1
+6,2015-10-10,H,Washington State,L (38-45),1
+7,2015-10-17,@,Washington,W (26-20),2
+8,2015-10-29,@,Arizona State,W (61-55),4
+9,2015-11-07,H,California,W (44-28),1
+10,2015-11-14,@,Stanford,W (38-36),0
+11,2015-11-21,H,Southern California,W (48-28),2
+12,2015-11-27,H,Oregon State,W (52-42),1
+13,2016-01-02,N,TCU*,L (41-47),2
+1,2014-08-30,H,South Dakota,W (62-13),2
+2,2014-09-06,H,Michigan State,W (46-27),2
+3,2014-09-13,H,Wyoming,W (48-14),1
+4,2014-09-20,@,Washington State,W (38-31),1
+5,2014-10-02,H,Arizona,L (24-31),2
+6,2014-10-11,@,UCLA,W (42-30),2
+7,2014-10-18,H,Washington,W (45-20),3
+8,2014-10-24,@,California,W (59-41),1
+9,2014-11-01,H,Stanford,W (45-16),1
+10,2014-11-08,@,Utah,W (51-27),4
+11,2014-11-22,H,Colorado,W (44-10),2
+12,2014-11-29,@,Oregon State,W (47-19),1
+13,2014-12-05,N,Arizona,W (51-13),2
+14,2015-01-01,N,Florida State*,W (59-20),4
+15,2015-01-12,N,Ohio State*,L (20-42),NA
+1,2013-08-31,H,Nicholls State,W (66-3),NA
+2,2013-09-07,@,Virginia,W (59-10),NA
+3,2013-09-14,H,Tennessee,W (59-14),NA
+4,2013-09-28,H,California,W (55-16),NA
+5,2013-10-05,@,Colorado,W (57-16),NA
+6,2013-10-12,@,Washington,W (45-24),NA
+7,2013-10-19,H,Washington State,W (62-38),NA
+8,2013-10-26,H,UCLA,W (42-14),NA
+9,2013-11-07,@,Stanford,L (20-26),NA
+10,2013-11-16,H,Utah,W (44-21),NA
