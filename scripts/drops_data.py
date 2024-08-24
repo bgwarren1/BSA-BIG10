@@ -20,7 +20,7 @@ cursor = conn.cursor()
 # Update the table with drops data
 for index, row in drops_df.iterrows():
     try:
-        # Print the SQL command for debugging
+        # Print the SQL command for debugging, drop after
         print(f"Updating: Date={row['Date']}, Opponent={row['Opponent']}, Location={row['raw_location']}, Drops={row['Drops']}")
         
         cursor.execute("""
