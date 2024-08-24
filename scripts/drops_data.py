@@ -7,7 +7,7 @@ drops_df = pd.read_csv('/Users/blairwarren/Desktop/BSA Article/bsa-big10-predict
 # Fill NaN drops with 0 and convert to integers
 drops_df['Drops'] = drops_df['Drops'].fillna(0).astype(int)
 
-# Reconnect to your database
+# Reconnect to database
 conn = psycopg2.connect(
     host="localhost",
     port="4228",  
