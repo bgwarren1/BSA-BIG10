@@ -9,11 +9,11 @@ drops_df['Drops'] = drops_df['Drops'].fillna(0).astype(int)
 
 # Reconnect to database
 conn = psycopg2.connect(
-    host="localhost",
-    port="4228",  
-    database="postgres",  
-    user="postgres",  
-    password="Blairp11"  
+    host="",
+    port="",  
+    database="",  
+    user="",  
+    password=""  
 )
 cursor = conn.cursor()
 
