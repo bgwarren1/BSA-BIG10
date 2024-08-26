@@ -70,9 +70,9 @@ for index, row in df.iterrows():
     except Exception as e:
         print("Error with row:", row.to_dict())
         print("Exception:", e)
-        conn.rollback()  # Roll back this transaction if there's an error
+        conn.rollback()  
 
-# Commit the transaction and close the connection
+
 conn.commit()
 cursor.close()
 conn.close()
