@@ -1,7 +1,7 @@
 import psycopg2
 import pandas as pd
 
-# Connect to your PostgreSQL database
+# Connect to database
 conn = psycopg2.connect(
     host="localhost",
     port=4228,  
