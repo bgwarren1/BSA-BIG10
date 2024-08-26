@@ -1,7 +1,7 @@
 import pandas as pd
 import psycopg2
 
-# Updated column names matching your CSV headers
+# Updated column names
 column_names = [
     'Rk', 'Date', 'raw_location', 'Opponent', 'Result',
     'opponent_pass_cmp', 'opponent_pass_att', 'opponent_completion_pct', 'opponent_pass_yds', 'opponent_pass_td',
@@ -16,10 +16,10 @@ column_names = [
 csv_file_path = ''
 df = pd.read_csv(csv_file_path, names=column_names, header=0)
 
-# Drop rows with any NaN values (like the header row if it gets included as data)
+# Drop rows with any NaN values
 df.dropna(inplace=True)
 
-# Connect to your PostgreSQL database
+# Connect to SQL
 conn = psycopg2.connect(
     host="",
     port=4228,  
@@ -32,7 +32,7 @@ cursor = conn.cursor()
 try:
     for index, row in df.iterrows():
         try:
-            # Insert the data directly into Defensive_Stats
+            # Insert the data directly into _Defensive_Stats
             sql_query = """
                 INSERT INTO Defensive_Stats (
                     date, opponent, location, result, opponent_passing_cmp, opponent_passing_att, opponent_completion_pct, 
@@ -58,15 +58,13 @@ try:
         except Exception as e:
             print("Error with row:", row.to_dict())
             print("Exception:", e)
-            # Rollback the current transaction to avoid a deadlock situation
             conn.rollback()
 
-    # Commit the transaction
     conn.commit()
 
 except Exception as e:
     print("Transaction failed:", e)
-    # Rollback the transaction if there is an error
+    # Rollback the transaction if theres am error
     conn.rollback()
 
 finally:
