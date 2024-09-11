@@ -3,15 +3,15 @@ import pandas as pd
 
 # Connect to database
 conn = psycopg2.connect(
-    host="localhost",
-    port=4228,  
-    database="postgres",  
-    user="postgres",  
-    password="Blairp11"  
+    host="",
+    port='',  
+    database="",  
+    user="",  
+    password=""  
 )
 cursor = conn.cursor()
 
-# Execute a query to select all data from the Offensive_Stats table
+
 cursor.execute("SELECT * FROM Offensive_Stats")
 
 # Fetch all the data returned by the query
@@ -20,12 +20,12 @@ rows = cursor.fetchall()
 # Get the column names from the cursor description
 columns = [desc[0] for desc in cursor.description]
 
-# Convert the data to a pandas DataFrame for easy viewing
+# Convert the data to df
 df = pd.DataFrame(rows, columns=columns)
 
-# Close the connection
+# Close
 cursor.close()
 conn.close()
 
-# Display the DataFrame
+# Display
 print(df)
