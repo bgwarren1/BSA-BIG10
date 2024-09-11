@@ -116,7 +116,7 @@ CREATE TABLE Kicking_Stats (
     points_scored INT
 );
 
-DROP TABLE IF EXISTS Punting_Stats;
+
 
 CREATE TABLE Punting_Stats (
     game_id SERIAL PRIMARY KEY,
@@ -126,11 +126,8 @@ CREATE TABLE Punting_Stats (
     result VARCHAR(10),
     punts INT,
     yds INT,
-    avg DECIMAL(5, 2)  -- Assuming it's a decimal, up to two decimal places
+    avg DECIMAL(5, 2)  
 );
-
-
-
 
 
 

@@ -127,3 +127,27 @@ INSERT INTO UCLA_Offensive_Stats
 SELECT *
 FROM Offensive_Stats
 WHERE game_id BETWEEN 464 AND 596; -- The game_id range where the school is present
+
+
+
+-- Add in drops
+ALTER TABLE UCLA_Offensive_Stats
+ADD COLUMN Drops INT;
+
+
+-- Adding weather metric variables for UCLA
+ALTER TABLE UCLA_Offensive_Stats
+ADD COLUMN temp_f DECIMAL,
+ADD COLUMN precipitation_in DECIMAL,
+ADD COLUMN windspeed_mph DECIMAL,
+ADD COLUMN altitude_m DECIMAL,
+ADD COLUMN distance_from DECIMAL;
+
+
+-- Adding weather metric variables to USC
+ALTER TABLE UCLA_Offensive_Stats
+ADD COLUMN temp_f DECIMAL,
+ADD COLUMN precipitation_in DECIMAL,
+ADD COLUMN windspeed_mph DECIMAL,
+ADD COLUMN altitude_m DECIMAL,
+ADD COLUMN distance_from DECIMAL;
