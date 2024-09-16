@@ -27,12 +27,12 @@ school_locations = {
     "Hawaii": (21.2972, -157.8170)
 }
 
-# Loop through the dictionary to calculate distances and get weather data
+
 for school, (lat, lon) in school_locations.items():
     # Get the location as a Point
     location = Point(lat, lon)
     
-    # Set the date range (you can adjust as needed)
+    
     start = datetime(2015, 9, 1)
     end = datetime(2016, 10, 30)
 
